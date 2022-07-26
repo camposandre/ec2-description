@@ -2,8 +2,6 @@
 
 Lista propriedades de uma EC2 AWS e gera um arquivo csv com essas informações.
 
-Integrantes: André Rodrigues / Alexandre / Anderson / Roberto (Bob) / Mauro
-
 ----------------------------------------------------------------------------
 
 VERSÕES
